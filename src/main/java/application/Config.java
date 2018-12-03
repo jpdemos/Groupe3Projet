@@ -5,8 +5,8 @@ import org.springframework.context.annotation.Configuration;
 
 import api.interfaces.Factory;
 import domain.Service;
-import infrastructures.EventRepository;
-import infrastructures.FactoryImpl;
+import infrastructure.EventRepository;
+import infrastructure.FactoryImpl;
 
 @Configuration
 public class Config

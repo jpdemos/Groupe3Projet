@@ -1,4 +1,4 @@
-package infrastructures;
+package infrastructure;
 
 import org.springframework.web.client.RestTemplate;
 

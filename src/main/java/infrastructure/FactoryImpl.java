@@ -1,4 +1,4 @@
-package infrastructures;
+package infrastructure;
 
 import java.io.IOException;
 import java.util.ArrayList;
