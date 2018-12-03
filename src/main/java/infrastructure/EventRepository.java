@@ -8,6 +8,8 @@ import api.interfaces.Repository;
 
 public class EventRepository implements Repository
 {
+	public static String baseUrl = "https://data.nantesmetropole.fr/api/records/1.0/search/?dataset=";
+
 	@Override
 	public JsonNode getAll()
 	{
