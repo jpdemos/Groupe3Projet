@@ -7,7 +7,7 @@
 	<groupId>iut.nantes</groupId>
 	<artifactId>projetWebMIAR</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>pom</packaging>
 
 	<name>projetWebMIAR</name>
 	<description>Projet LP_MiAR</description>
