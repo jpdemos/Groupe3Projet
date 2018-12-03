@@ -1,4 +1,4 @@
-package iut.nantes.projetWebMIAR;
+package Application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
